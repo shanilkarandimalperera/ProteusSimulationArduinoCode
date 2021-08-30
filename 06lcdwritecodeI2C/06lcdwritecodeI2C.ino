@@ -16,6 +16,7 @@ void setup()
   lcd.print("Hello, world!");
   lcd.setCursor(2,1);
   lcd.print("Shanilka R");
+  
 }
 
 
